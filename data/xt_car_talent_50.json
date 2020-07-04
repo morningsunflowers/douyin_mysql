@@ -1,0 +1,1662 @@
+{
+  "stars": [
+    {
+      "province": "",
+      "city": "",
+      "old_rank": 1,
+      "nick_name": "小刚学长",
+      "fields": [
+        {
+          "value": "96.1",
+          "label": "score"
+        },
+        {
+          "value": "7822078",
+          "label": "follower"
+        },
+        {
+          "value": "9935254",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0271",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "20.1",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p9-dy.byteimg.com/aweme/1080x1080/2404b00016c807cc3514f.jpeg?from=4010531038",
+      "avg_play": 27362442,
+      "new_rank": 1,
+      "id": "6728332483420487687",
+      "core_user_id": "3170636073283755"
+    },
+    {
+      "province": "广东省",
+      "city": "东莞市",
+      "old_rank": 2,
+      "nick_name": "Bimmer·温锦宏",
+      "fields": [
+        {
+          "value": "95.3",
+          "label": "score"
+        },
+        {
+          "value": "2792625",
+          "label": "follower"
+        },
+        {
+          "value": "11984203",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0154",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "15.0",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/26edb00065345e2b7be49.jpeg?from=4010531038",
+      "avg_play": 10249207,
+      "new_rank": 2,
+      "id": "6746414026500079619",
+      "core_user_id": "1402564762671240"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "old_rank": 3,
+      "nick_name": "虎哥说车",
+      "fields": [
+        {
+          "value": "94.7",
+          "label": "score"
+        },
+        {
+          "value": "25672157",
+          "label": "follower"
+        },
+        {
+          "value": "9360205",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0309",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "32.0",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy.byteimg.com/aweme/1080x1080/2dcc50001da14fc79b03c.jpeg?from=4010531038",
+      "avg_play": 11565808,
+      "new_rank": 3,
+      "id": "6674590795636408324",
+      "core_user_id": "93763913776"
+    },
+    {
+      "province": "江苏省",
+      "city": "南京市",
+      "old_rank": 4,
+      "nick_name": "猴哥说车",
+      "fields": [
+        {
+          "value": "94.5",
+          "label": "score"
+        },
+        {
+          "value": "14093022",
+          "label": "follower"
+        },
+        {
+          "value": "9319500",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0224",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "26.8",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p26-dy.byteimg.com/aweme/1080x1080/2eb790001cc8650fb876c.jpeg?from=4010531038",
+      "avg_play": 23493901,
+      "new_rank": 4,
+      "id": "6639152398323417102",
+      "core_user_id": "104332721863"
+    },
+    {
+      "province": "广东省",
+      "city": "东莞市",
+      "old_rank": 5,
+      "nick_name": "3Gm汽车性能升级中心",
+      "fields": [
+        {
+          "value": "92.3",
+          "label": "score"
+        },
+        {
+          "value": "2899851",
+          "label": "follower"
+        },
+        {
+          "value": "5771025",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0286",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "22.5",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/172bb0003972c1facf591.jpeg?from=4010531038",
+      "avg_play": 10809216,
+      "new_rank": 5,
+      "id": "6708688928439795724",
+      "core_user_id": "106387174770"
+    },
+    {
+      "province": "四川省",
+      "city": "成都市",
+      "old_rank": 6,
+      "nick_name": "皮哥",
+      "fields": [
+        {
+          "value": "88.9",
+          "label": "score"
+        },
+        {
+          "value": "3508527",
+          "label": "follower"
+        },
+        {
+          "value": "2557148",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0172",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "29.3",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/1c9c000005ed7d467fe70.jpeg?from=4010531038",
+      "avg_play": 2877469,
+      "new_rank": 6,
+      "id": "6636179107023421454",
+      "core_user_id": "91565233784"
+    },
+    {
+      "province": "",
+      "city": "",
+      "old_rank": 7,
+      "nick_name": "八戒说车",
+      "fields": [
+        {
+          "value": "87.6",
+          "label": "score"
+        },
+        {
+          "value": "3235142",
+          "label": "follower"
+        },
+        {
+          "value": "2465324",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0187",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "32.5",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p9-dy-ipv6.byteimg.com/aweme/1080x1080/2e1fc000683ca07993d4c.jpeg?from=4010531038",
+      "avg_play": 1480531,
+      "new_rank": 7,
+      "id": "6756041124684496904",
+      "core_user_id": "1059563815044316"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "old_rank": 8,
+      "nick_name": "车坛老炮儿",
+      "fields": [
+        {
+          "value": "87.2",
+          "label": "score"
+        },
+        {
+          "value": "6549663",
+          "label": "follower"
+        },
+        {
+          "value": "2182882",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0207",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "36.6",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/311ce0000b35fdfd4c328.jpeg?from=4010531038",
+      "avg_play": 4087045,
+      "new_rank": 8,
+      "id": "6629657814136520712",
+      "core_user_id": "67203093108"
+    },
+    {
+      "province": "广东省",
+      "city": "",
+      "old_rank": 9,
+      "nick_name": "久牛星-牛哥说车",
+      "fields": [
+        {
+          "value": "86.9",
+          "label": "score"
+        },
+        {
+          "value": "3910727",
+          "label": "follower"
+        },
+        {
+          "value": "1770553",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0279",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "33.9",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p9-dy.byteimg.com/aweme/1080x1080/1cb0b0003cf22fcf7253a.jpeg?from=4010531038",
+      "avg_play": 2717190,
+      "new_rank": 9,
+      "id": "6671148811877875725",
+      "core_user_id": "91617001540"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "old_rank": 11,
+      "nick_name": "美少女车管所所长",
+      "fields": [
+        {
+          "value": "84.7",
+          "label": "score"
+        },
+        {
+          "value": "1329624",
+          "label": "follower"
+        },
+        {
+          "value": "845576",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.039",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "19.9",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p9-dy-ipv6.byteimg.com/aweme/1080x1080/2f9da000406ba3f733985.jpeg?from=4010531038",
+      "avg_play": 1529992,
+      "new_rank": 10,
+      "id": "6659669053369483277",
+      "core_user_id": "99457418172"
+    },
+    {
+      "province": "",
+      "city": "",
+      "old_rank": 12,
+      "nick_name": "汽车系超老师",
+      "fields": [
+        {
+          "value": "84.3",
+          "label": "score"
+        },
+        {
+          "value": "2416074",
+          "label": "follower"
+        },
+        {
+          "value": "1720503",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0254",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "17.4",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/316ca0001f928a5f61058.jpeg?from=4010531038",
+      "avg_play": 1406644,
+      "new_rank": 11,
+      "id": "6674556850718900238",
+      "core_user_id": "64002251227"
+    },
+    {
+      "province": "湖北省",
+      "city": "武汉市",
+      "old_rank": 13,
+      "nick_name": "阿青说车",
+      "fields": [
+        {
+          "value": "84.1",
+          "label": "score"
+        },
+        {
+          "value": "1471052",
+          "label": "follower"
+        },
+        {
+          "value": "1560171",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0152",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "9.6",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p29-dy.byteimg.com/aweme/1080x1080/31839000830761f6a1aa1.jpeg?from=4010531038",
+      "avg_play": 1669778,
+      "new_rank": 12,
+      "id": "6794376758503161863",
+      "core_user_id": "3390506074900868"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "old_rank": 10,
+      "nick_name": "暴走老常（7.3周五晚8点直播）",
+      "fields": [
+        {
+          "value": "84.1",
+          "label": "score"
+        },
+        {
+          "value": "6527165",
+          "label": "follower"
+        },
+        {
+          "value": "1055541",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0328",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "75.8",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy.byteimg.com/aweme/1080x1080/315a3000092e0b0bdec0a.jpeg?from=4010531038",
+      "avg_play": 1113610,
+      "new_rank": 13,
+      "id": "6683851306999742471",
+      "core_user_id": "53242954156"
+    },
+    {
+      "province": "",
+      "city": "",
+      "old_rank": 14,
+      "nick_name": "摩托威榜",
+      "fields": [
+        {
+          "value": "83.5",
+          "label": "score"
+        },
+        {
+          "value": "1097151",
+          "label": "follower"
+        },
+        {
+          "value": "314267",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0271",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "9.9",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p9-dy.byteimg.com/aweme/1080x1080/30f0c00070a31814a20ad.jpeg?from=4010531038",
+      "avg_play": 227435,
+      "new_rank": 14,
+      "id": "6771928039166050317",
+      "core_user_id": "84994054376"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "old_rank": 16,
+      "nick_name": "牛哥说车-老司机课堂",
+      "fields": [
+        {
+          "value": "83.4",
+          "label": "score"
+        },
+        {
+          "value": "2082713",
+          "label": "follower"
+        },
+        {
+          "value": "958414",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0354",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "31.3",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/30feb00081a3dc6721083.jpeg?from=4010531038",
+      "avg_play": 4107956,
+      "new_rank": 15,
+      "id": "6725935254273523716",
+      "core_user_id": "75944529580"
+    },
+    {
+      "province": "湖南省",
+      "city": "株洲市",
+      "old_rank": 15,
+      "nick_name": "小雄说车",
+      "fields": [
+        {
+          "value": "83.3",
+          "label": "score"
+        },
+        {
+          "value": "4700492",
+          "label": "follower"
+        },
+        {
+          "value": "801659",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0321",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "34.9",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "http://p1.pstatp.com/thumb/2c5d000e191dd9e27b39",
+      "avg_play": 1081565,
+      "new_rank": 16,
+      "id": "6629665228395118599",
+      "core_user_id": "67168071285"
+    },
+    {
+      "province": "广东省",
+      "city": "深圳市",
+      "old_rank": 18,
+      "nick_name": "猫叔说车",
+      "fields": [
+        {
+          "value": "82.1",
+          "label": "score"
+        },
+        {
+          "value": "2179547",
+          "label": "follower"
+        },
+        {
+          "value": "395309",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.043",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "75.9",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p29-dy.byteimg.com/aweme/1080x1080/2854e0003fcffaaf1f722.jpeg?from=4010531038",
+      "avg_play": 515337,
+      "new_rank": 17,
+      "id": "6629663177468542990",
+      "core_user_id": "104103348353"
+    },
+    {
+      "province": "",
+      "city": "",
+      "old_rank": 19,
+      "nick_name": "苏老师说车",
+      "fields": [
+        {
+          "value": "81.7",
+          "label": "score"
+        },
+        {
+          "value": "700669",
+          "label": "follower"
+        },
+        {
+          "value": "270136",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0154",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "66.6",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy.byteimg.com/aweme/1080x1080/30f6000025162e573a57c.jpeg?from=4010531038",
+      "avg_play": 596310,
+      "new_rank": 18,
+      "id": "6771813613016449031",
+      "core_user_id": "104600252502"
+    },
+    {
+      "province": "北京市",
+      "city": "朝阳区",
+      "old_rank": 20,
+      "nick_name": "痞幼",
+      "fields": [
+        {
+          "value": "81.7",
+          "label": "score"
+        },
+        {
+          "value": "2448032",
+          "label": "follower"
+        },
+        {
+          "value": "5897511",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0233",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "7.6",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/img/tos-cn-i-0813/b1aa037638be4863995beb79fa27e3bc~c5_1080x1080.jpeg?from=4010531038",
+      "avg_play": 5005892,
+      "new_rank": 19,
+      "id": "6825284753361469453",
+      "core_user_id": "53593622863"
+    },
+    {
+      "province": "北京市",
+      "city": "朝阳区",
+      "old_rank": 17,
+      "nick_name": "琦哥玩车",
+      "fields": [
+        {
+          "value": "81.4",
+          "label": "score"
+        },
+        {
+          "value": "1905936",
+          "label": "follower"
+        },
+        {
+          "value": "483356",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0536",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "45.5",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p9-dy-ipv6.byteimg.com/aweme/1080x1080/2ec9d00029e1b63b94484.jpeg?from=4010531038",
+      "avg_play": 3378759,
+      "new_rank": 20,
+      "id": "6786289982509154317",
+      "core_user_id": "59020544404"
+    },
+    {
+      "province": "北京市",
+      "city": "",
+      "old_rank": 18,
+      "nick_name": "家有懂车妹",
+      "fields": [
+        {
+          "value": "81.3",
+          "label": "score"
+        },
+        {
+          "value": "6276969",
+          "label": "follower"
+        },
+        {
+          "value": "626905",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0327",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "191.4",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p29-dy.byteimg.com/aweme/1080x1080/20ad000022636220f83d7.jpeg?from=4010531038",
+      "avg_play": 591295,
+      "new_rank": 20,
+      "id": "6669674637334413316",
+      "core_user_id": "109762236315"
+    },
+    {
+      "province": "广东省",
+      "city": "广州市",
+      "old_rank": 17,
+      "nick_name": "说车女司机",
+      "fields": [
+        {
+          "value": "81.2",
+          "label": "score"
+        },
+        {
+          "value": "209329",
+          "label": "follower"
+        },
+        {
+          "value": "404178",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.015",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "15.3",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/30fb000033a617e3a31c1.jpeg?from=4010531038",
+      "avg_play": 383437,
+      "new_rank": 18,
+      "id": "6819988865076428813",
+      "core_user_id": "1732442921109736"
+    },
+    {
+      "province": "广东省",
+      "city": "佛山市",
+      "old_rank": 17,
+      "nick_name": "DJ初仔小朋友",
+      "fields": [
+        {
+          "value": "80.9",
+          "label": "score"
+        },
+        {
+          "value": "606023",
+          "label": "follower"
+        },
+        {
+          "value": "685705",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0167",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "8.5",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy-ipv6.byteimg.com/aweme/1080x1080/313f2000697d40c51d175.jpeg?from=4010531038",
+      "avg_play": 1782452,
+      "new_rank": 20,
+      "id": "6773662446977548296",
+      "core_user_id": "62806174294"
+    },
+    {
+      "province": "北京市",
+      "city": "朝阳区",
+      "old_rank": 20,
+      "nick_name": "七哥撩车",
+      "fields": [
+        {
+          "value": "80.9",
+          "label": "score"
+        },
+        {
+          "value": "236595",
+          "label": "follower"
+        },
+        {
+          "value": "159677",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0196",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "125.3",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy-ipv6.byteimg.com/aweme/1080x1080/171aa0004ac41527e49f2.jpeg?from=4010531038",
+      "avg_play": 330037,
+      "new_rank": 20,
+      "id": "6735666092494028808",
+      "core_user_id": "98104896357"
+    },
+    {
+      "province": "北京市",
+      "city": "朝阳区",
+      "old_rank": 19,
+      "nick_name": "张凯特",
+      "fields": [
+        {
+          "value": "80.7",
+          "label": "score"
+        },
+        {
+          "value": "515524",
+          "label": "follower"
+        },
+        {
+          "value": "594393",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0214",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "13.5",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy.byteimg.com/aweme/1080x1080/1ca5400052409c82dcc74.jpeg?from=4010531038",
+      "avg_play": 2913743,
+      "new_rank": 18,
+      "id": "6755336441867272200",
+      "core_user_id": "62920442076"
+    },
+    {
+      "province": "山东省",
+      "city": "淄博市",
+      "old_rank": 20,
+      "nick_name": "融创汽车",
+      "fields": [
+        {
+          "value": "80.6",
+          "label": "score"
+        },
+        {
+          "value": "2926839",
+          "label": "follower"
+        },
+        {
+          "value": "6128247",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0121",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "9.8",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy.byteimg.com/aweme/1080x1080/adea001d1f9a54da8780.jpeg?from=4010531038",
+      "avg_play": 6485644,
+      "new_rank": 20,
+      "id": "6665214545297932295",
+      "core_user_id": "61627091456"
+    },
+    {
+      "province": "湖南省",
+      "city": "长沙市",
+      "nick_name": "玩车报告",
+      "fields": [
+        {
+          "value": "80.4",
+          "label": "score"
+        },
+        {
+          "value": "1909608",
+          "label": "follower"
+        },
+        {
+          "value": "715606",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0117",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "97.8",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/f66a000171638d8ffd97.jpeg?from=4010531038",
+      "avg_play": 2043254,
+      "id": "6707072090823983117",
+      "core_user_id": "105580002301"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "old_rank": 5,
+      "nick_name": "虎小叔说车",
+      "fields": [
+        {
+          "value": "80.1",
+          "label": "score"
+        },
+        {
+          "value": "4997321",
+          "label": "follower"
+        },
+        {
+          "value": "1575579",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0262",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "31.7",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p9-dy-ipv6.byteimg.com/img/tos-cn-i-0813/0a19e5707d9347528eca7cadf3c5b514~c5_1080x1080.jpeg?from=4010531038",
+      "avg_play": 958557,
+      "new_rank": 6,
+      "id": "6727866416424288259",
+      "core_user_id": "25189068324"
+    },
+    {
+      "province": "河南省",
+      "city": "郑州市",
+      "nick_name": "赵老师说车",
+      "fields": [
+        {
+          "value": "80",
+          "label": "score"
+        },
+        {
+          "value": "376930",
+          "label": "follower"
+        },
+        {
+          "value": "126544",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0233",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "48.2",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p26-dy.byteimg.com/aweme/1080x1080/2e34100069ee572620c90.jpeg?from=4010531038",
+      "avg_play": 305534,
+      "id": "6779119720546172932",
+      "core_user_id": "78629674367"
+    },
+    {
+      "province": "河南省",
+      "city": "郑州市",
+      "nick_name": "大中华区总裁",
+      "fields": [
+        {
+          "value": "79.9",
+          "label": "score"
+        },
+        {
+          "value": "7144866",
+          "label": "follower"
+        },
+        {
+          "value": "589750",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0242",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "161.1",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy.byteimg.com/aweme/1080x1080/1e1970004fbdff32b6633.jpeg?from=4010531038",
+      "avg_play": 823596,
+      "id": "6629723226928840711",
+      "core_user_id": "61569002758"
+    },
+    {
+      "province": "",
+      "city": "",
+      "nick_name": "车车-丁老师",
+      "fields": [
+        {
+          "value": "79.5",
+          "label": "score"
+        },
+        {
+          "value": "952345",
+          "label": "follower"
+        },
+        {
+          "value": "1007249",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0299",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "14.9",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p26-dy.byteimg.com/aweme/1080x1080/3120f0009ea14e6997345.jpeg?from=4010531038",
+      "avg_play": 1377612,
+      "id": "6729908546596503560",
+      "core_user_id": "96029276887"
+    },
+    {
+      "province": "",
+      "city": "上海",
+      "nick_name": "机车【阿黑】",
+      "fields": [
+        {
+          "value": "79.2",
+          "label": "score"
+        },
+        {
+          "value": "192526",
+          "label": "follower"
+        },
+        {
+          "value": "75480",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0114",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "14.6",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p9-dy-ipv6.byteimg.com/aweme/1080x1080/3156c000887157df7a04a.jpeg?from=4010531038",
+      "avg_play": 49093,
+      "id": "6820424401222107144",
+      "core_user_id": "1842393682549107"
+    },
+    {
+      "province": "",
+      "city": "大庆市",
+      "old_rank": 18,
+      "nick_name": "潘教练☝️",
+      "fields": [
+        {
+          "value": "79.2",
+          "label": "score"
+        },
+        {
+          "value": "1308246",
+          "label": "follower"
+        },
+        {
+          "value": "1587595",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0282",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "16.5",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/31062000156e386580c50.jpeg?from=4010531038",
+      "avg_play": 6635191,
+      "new_rank": 19,
+      "id": "6810596270055358472",
+      "core_user_id": "3856727174546254"
+    },
+    {
+      "province": "北京市",
+      "city": "",
+      "nick_name": "哈雷盟主(安全官小姐姐)",
+      "fields": [
+        {
+          "value": "79.2",
+          "label": "score"
+        },
+        {
+          "value": "3912801",
+          "label": "follower"
+        },
+        {
+          "value": "4756164",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0227",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "10.5",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p9-dy.byteimg.com/aweme/1080x1080/fd0100023b3dd7e163f1.jpeg?from=4010531038",
+      "avg_play": 13563448,
+      "id": "6629656698678149123",
+      "core_user_id": "53502602441"
+    },
+    {
+      "province": "福建省",
+      "city": "厦门市",
+      "nick_name": "撩车糖小糖",
+      "fields": [
+        {
+          "value": "78.6",
+          "label": "score"
+        },
+        {
+          "value": "693031",
+          "label": "follower"
+        },
+        {
+          "value": "368549",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0223",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "27.1",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p29-dy.byteimg.com/aweme/1080x1080/2e3b70007823232ad3d37.jpeg?from=4010531038",
+      "avg_play": 475862,
+      "id": "6669536912455237643",
+      "core_user_id": "104342493060"
+    },
+    {
+      "province": "山东省",
+      "city": "济南市",
+      "old_rank": 14,
+      "nick_name": "骑不快的H",
+      "fields": [
+        {
+          "value": "78.5",
+          "label": "score"
+        },
+        {
+          "value": "1160015",
+          "label": "follower"
+        },
+        {
+          "value": "469448",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0412",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "40.5",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p9-dy-ipv6.byteimg.com/img/tos-cn-i-0813/f6183635d62f486fae6b514480b6766a~c5_1080x1080.jpeg?from=4010531038",
+      "avg_play": 628776,
+      "new_rank": 14,
+      "id": "6663274606134034445",
+      "core_user_id": "69460950608"
+    },
+    {
+      "province": "江苏省",
+      "city": "苏州市",
+      "nick_name": "大表哥说车",
+      "fields": [
+        {
+          "value": "78.2",
+          "label": "score"
+        },
+        {
+          "value": "303591",
+          "label": "follower"
+        },
+        {
+          "value": "283760",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.011",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "12.7",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p26-dy.byteimg.com/aweme/1080x1080/26d83000117c9a4005f62.jpeg?from=4010531038",
+      "avg_play": 520926,
+      "id": "6764302414150369284",
+      "core_user_id": "1235502809744731"
+    },
+    {
+      "province": "山东省",
+      "city": "",
+      "nick_name": "学好姐姐😍",
+      "fields": [
+        {
+          "value": "78",
+          "label": "score"
+        },
+        {
+          "value": "979762",
+          "label": "follower"
+        },
+        {
+          "value": "2027533",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0139",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "5.9",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p29-dy.byteimg.com/aweme/1080x1080/3175c00031eda3f30c0d4.jpeg?from=4010531038",
+      "avg_play": 4095675,
+      "id": "6718704593095622670",
+      "core_user_id": "89923335731"
+    },
+    {
+      "province": "",
+      "city": "",
+      "nick_name": "陈震同学",
+      "fields": [
+        {
+          "value": "77.6",
+          "label": "score"
+        },
+        {
+          "value": "1529092",
+          "label": "follower"
+        },
+        {
+          "value": "1432702",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.021",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "34.9",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/img/tos-cn-i-0813/0aee7036e6f341a0b5fef369532eeb0c~c5_1080x1080.jpeg?from=4010531038",
+      "avg_play": 1792208,
+      "id": "6813594324274511885",
+      "core_user_id": "98602472535"
+    },
+    {
+      "province": "浙江省",
+      "city": "杭州市",
+      "nick_name": "小强说车",
+      "fields": [
+        {
+          "value": "77.5",
+          "label": "score"
+        },
+        {
+          "value": "955248",
+          "label": "follower"
+        },
+        {
+          "value": "880569",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0124",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "5.7",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p29-dy.byteimg.com/aweme/1080x1080/31005000543a02cd936c0.jpeg?from=4010531038",
+      "avg_play": 12589871,
+      "id": "6824307832658067470",
+      "core_user_id": "1472983365074040"
+    },
+    {
+      "province": "北京市",
+      "city": "顺义区",
+      "nick_name": "樱桃小袁子",
+      "fields": [
+        {
+          "value": "77.4",
+          "label": "score"
+        },
+        {
+          "value": "514199",
+          "label": "follower"
+        },
+        {
+          "value": "1125308",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0227",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "4.0",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy.byteimg.com/aweme/1080x1080/3144d0005457e7ab991ba.jpeg?from=4010531038",
+      "avg_play": 2790081,
+      "id": "6809462495707660296",
+      "core_user_id": "73220832936"
+    },
+    {
+      "province": "",
+      "city": "北京",
+      "nick_name": "杨慢慢追风逐日",
+      "fields": [
+        {
+          "value": "77.3",
+          "label": "score"
+        },
+        {
+          "value": "505894",
+          "label": "follower"
+        },
+        {
+          "value": "360348",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0188",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "25.0",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p9-dy-ipv6.byteimg.com/aweme/1080x1080/2e71d0003ef8f98105082.jpeg?from=4010531038",
+      "avg_play": 1361380,
+      "id": "6792243777663664142",
+      "core_user_id": "364654824261469"
+    },
+    {
+      "province": "四川省",
+      "city": "成都市",
+      "nick_name": "蒲公英carcar",
+      "fields": [
+        {
+          "value": "77.1",
+          "label": "score"
+        },
+        {
+          "value": "1049054",
+          "label": "follower"
+        },
+        {
+          "value": "178798",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0429",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "83.9",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p29-dy.byteimg.com/aweme/1080x1080/317ce00090e86a0ea9947.jpeg?from=4010531038",
+      "avg_play": 235162,
+      "id": "6596677993379135495",
+      "core_user_id": "98607420573"
+    },
+    {
+      "province": "上海市",
+      "city": "",
+      "nick_name": "宋文婷",
+      "fields": [
+        {
+          "value": "76.8",
+          "label": "score"
+        },
+        {
+          "value": "251755",
+          "label": "follower"
+        },
+        {
+          "value": "337253",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0086",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "29.6",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p1-dy-ipv6.byteimg.com/aweme/1080x1080/310260007e73303b031b2.jpeg?from=4010531038",
+      "avg_play": 1389637,
+      "id": "6731327180434833422",
+      "core_user_id": "73117026687"
+    },
+    {
+      "province": "北京市",
+      "city": "",
+      "nick_name": "飞叔玩车",
+      "fields": [
+        {
+          "value": "76.6",
+          "label": "score"
+        },
+        {
+          "value": "976002",
+          "label": "follower"
+        },
+        {
+          "value": "157625",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0482",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "36.8",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy-ipv6.byteimg.com/aweme/1080x1080/2cf3600059c74464be7be.jpeg?from=4010531038",
+      "avg_play": 177224,
+      "id": "6740964527430434828",
+      "core_user_id": "3883079584714167"
+    },
+    {
+      "province": "内蒙古自治区",
+      "city": "呼和浩特市",
+      "nick_name": "爱车驾道",
+      "fields": [
+        {
+          "value": "76.4",
+          "label": "score"
+        },
+        {
+          "value": "2324133",
+          "label": "follower"
+        },
+        {
+          "value": "387910",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0353",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "51.6",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/img/tos-cn-i-0813/0b5fdc4e89024c4ea8d9f8a8909533e0~c5_1080x1080.jpeg?from=4010531038",
+      "avg_play": 198891,
+      "id": "6629726019941040141",
+      "core_user_id": "105120864624"
+    },
+    {
+      "province": "",
+      "city": "绵阳",
+      "nick_name": "东子SKS",
+      "fields": [
+        {
+          "value": "76.3",
+          "label": "score"
+        },
+        {
+          "value": "167390",
+          "label": "follower"
+        },
+        {
+          "value": "118216",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0127",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "23.7",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy.byteimg.com/aweme/1080x1080/2f9bf0008078dd3f1fb0a.jpeg?from=4010531038",
+      "avg_play": 238711,
+      "id": "6821364827873607694",
+      "core_user_id": "62223083341"
+    },
+    {
+      "province": "",
+      "city": "乌鲁木齐",
+      "nick_name": "车匠派",
+      "fields": [
+        {
+          "value": "76.3",
+          "label": "score"
+        },
+        {
+          "value": "259310",
+          "label": "follower"
+        },
+        {
+          "value": "35364",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0395",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "41.0",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/img/tos-cn-i-0813/130259c7777d4295b78373a0c5532ac7~c5_1080x1080.jpeg?from=4010531038",
+      "avg_play": 85884,
+      "id": "6813501874361073671",
+      "core_user_id": "53385361395"
+    },
+    {
+      "province": "",
+      "city": "北京",
+      "nick_name": "玩车研习社",
+      "fields": [
+        {
+          "value": "76",
+          "label": "score"
+        },
+        {
+          "value": "2376597",
+          "label": "follower"
+        },
+        {
+          "value": "1408886",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0114",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "3.5",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p6-dy-ipv6.byteimg.com/aweme/1080x1080/30e720005b48cc0131129.jpeg?from=4010531038",
+      "avg_play": 14792919,
+      "id": "6810410208188170248",
+      "core_user_id": "4019427006755096"
+    },
+    {
+      "province": "",
+      "city": "",
+      "nick_name": "超跑星探",
+      "fields": [
+        {
+          "value": "76",
+          "label": "score"
+        },
+        {
+          "value": "175116",
+          "label": "follower"
+        },
+        {
+          "value": "137161",
+          "label": "positive_vv"
+        },
+        {
+          "value": "0.0591",
+          "label": "personal_interate_rate"
+        },
+        {
+          "value": "7.3",
+          "label": "expected_cpm"
+        }
+      ],
+      "is_collected": false,
+      "avatar_uri": "https://p3-dy-ipv6.byteimg.com/aweme/1080x1080/2f85b000bc8650aadbc6b.jpeg?from=4010531038",
+      "avg_play": 78432,
+      "id": "6805953954111815687",
+      "core_user_id": "59447444546"
+    }
+  ]
+}
